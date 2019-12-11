@@ -1,4 +1,9 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# npm uninstall -g create-react-app
+
+#npx create-react-app my-app
+#npm init react-app my-app
+#yarn create react-app my-app
 
 # dependencies
 /node_modules
